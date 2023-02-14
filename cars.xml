@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<catalog>
+   <car id="nissan001">
+      <brand>nissan</brand>
+      <model>GTR R32</model>
+      <traction>4ws</traction>
+      <horsepower>280</horsepower>
+      <seats>4</seats>
+      <features>
+         <abs>no</abs>
+         <power_steering>yes</power_steering>
+         <locking_differential>no</locking_differential>
+      </features>
+      <price>30000</price>
+      <release_date>1989</release_date>
+      <description>minor damages on front rear</description>
+   </car>
+   <car id="nissan002">
+      <brand>nissan</brand>
+      <model>GTR R33</model>
+      <traction>4ws</traction>
+      <horsepower>305</horsepower>
+      <seats>4</seats>
+      <features>
+         <abs>yes</abs>
+         <power_steering>yes</power_steering>
+         <locking_differential>no</locking_differential>
+      </features>
+      <price>60000</price>
+      <release_date>1995</release_date>
+      <description>back seats were removed</description>
+   </car>
+   <car id="nissan003">
+      <brand>nissan</brand>
+      <model>GTR R34</model>
+      <traction>4ws</traction>
+      <horsepower>320</horsepower>
+      <seats>4</seats>
+      <features>
+         <abs>yes</abs>
+         <power_steering>yes</power_steering>
+         <locking_differential>no</locking_differential>
+      </features>
+      <price>70000</price>
+      <release_date>1998</release_date>
+      <description>perfect condition</description>
+   </car>
+   <car id="nissan004">
+      <brand>nissan</brand>
+      <model>GTR R35</model>
+      <traction>4ws</traction>
+      <horsepower>320</horsepower>
+      <seats>4</seats>
+      <features>
+         <abs>yes</abs>
+         <power_steering>yes</power_steering>
+         <locking_differential>no</locking_differential>
+      </features>
+      <price>115000</price>
+      <release_date>2007</release_date>
+      <description>engine modifications</description>
+   </car>
+   <car id="nissan005">
+      <brand>nissan</brand>
+      <model>s14</model>
+      <traction>rear wheel drive</traction>
+      <horsepower>220</horsepower>
+      <seats>4</seats>
+      <features>
+         <abs>yes</abs>
+         <power_steering>yes</power_steering>
+         <locking_differential>yes</locking_differential>
+      </features>
+      <price>15000</price>
+      <release_date>1994</release_date>
+      <description>clutch has pressure issues</description>
+   </car>
+   <car id="nissan006">
+      <brand>nissan</brand>
+      <model>s15</model>
+      <traction>rear wheel drive</traction>
+      <horsepower>250</horsepower>
+      <seats>4</seats>
+      <features>
+         <abs>yes</abs>
+         <power_steering>yes</power_steering>
+         <locking_differential>yes</locking_differential>
+      </features>
+      <price>20000</price>
+      <release_date>1999</release_date>
+      <description>perfect conditions</description>
+   </car>
+   <car id="nissan007">
+      <brand>nissan</brand>
+      <model>350z</model>
+      <traction>rear wheel drive</traction>
+      <horsepower>280</horsepower>
+      <seats>2</seats>
+      <features>
+         <abs>yes</abs>
+         <power_steering>yes</power_steering>
+         <locking_differential>no</locking_differential>
+      </features>
+      <price>10000</price>
+      <release_date>1999</release_date>
+      <description>body kit modifications</description>
+   </car>
+   <car id="bmw001">
+      <brand>bmw</brand>
+      <model>e46</model>
+      <traction>rear wheel drive</traction>
+      <horsepower>343</horsepower>
+      <seats>4</seats>
+      <features>
+         <abs>yes</abs>
+         <power_steering>yes</power_steering>
+         <locking_differential>no</locking_differential>
+      </features>
+      <price>30000</price>
+      <release_date>2000</release_date>
+      <description>Several differential modifications</description>
+   </car>
+   <car id="bmw002">
+      <brand>bmw</brand>
+      <model>e96</model>
+      <traction>rear wheel drive</traction>
+      <horsepower>420</horsepower>
+      <seats>2</seats>
+      <features>
+         <abs>yes</abs>
+         <power_steering>yes</power_steering>
+         <locking_differential>no</locking_differential>
+      </features>
+      <price>60000</price>
+      <release_date>2007</release_date>
+      <description>broken back splitter</description>
+   </car>
+   <car id="bmw002">
+      <brand>bmw</brand>
+      <model>e90</model>
+      <traction>rear wheel drive</traction>
+      <horsepower>420</horsepower>
+      <seats>4</seats>
+      <features>
+         <abs>yes</abs>
+         <power_steering>yes</power_steering>
+         <locking_differential>no</locking_differential>
+      </features>
+      <price>60000</price>
+      <release_date>2007</release_date>
+      <description>sedan</description>
+   </car>
+   <car id="bmw003">
+      <brand>bmw</brand>
+      <model>e93</model>
+      <traction>rear wheel drive</traction>
+      <horsepower>420</horsepower>
+      <seats>2</seats>
+      <features>
+         <abs>yes</abs>
+         <power_steering>yes</power_steering>
+         <locking_differential>no</locking_differential>
+      </features>
+      <price>60000</price>
+      <release_date>2007</release_date>
+      <description>convertible</description>
+   </car>
+   <car id="bmw003">
+      <brand>bmw</brand>
+      <model>f80</model>
+      <traction>rear wheel drive</traction>
+      <horsepower>450</horsepower>
+      <seats>4</seats>
+      <features>
+         <abs>yes</abs>
+         <power_steering>yes</power_steering>
+         <locking_differential>no</locking_differential>
+      </features>
+      <price>75000</price>
+      <release_date>2014</release_date>
+      <description>minor scratches in one door</description>
+   </car>
+</catalog>
